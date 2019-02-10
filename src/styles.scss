@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+$font-color: coral;
+$background: rgb(255, 252, 234);
+
+body {
+    background-color: $background;
+    color:$font-color;
+    font-family: ubuntu;
+} 
